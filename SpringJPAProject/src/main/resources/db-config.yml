@@ -1,0 +1,5 @@
+Spring:
+  dataSouce:
+    url: jdbc:hsqldb:mem:shaik
+    username: sa
+    
